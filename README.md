@@ -12,7 +12,7 @@ Python and SQLAlchemy were used to perform a basic climate analysis and data exp
 * Query results were loaded into a Pandas DataFrame and the index was set as column.
 * Results were ploted using the DataFrame plot method.
 
-![](output/Precipitation Plot.png)
+![](Output/Precipitation Plot.png)
 
 ### Station Analysis
 
@@ -20,7 +20,7 @@ Python and SQLAlchemy were used to perform a basic climate analysis and data exp
 * The Min, Max, Count and Avg functions were used to calculate the observations.
 * A query was also created to retrieve the last 12 months of temperature observation data (TOBS). Data was filtered by the highest number of observations.
 
-![](output/Histogram Plot.png)
+![](Output/Histogram Plot.png)
 
 ### Climate App
 
